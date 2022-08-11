@@ -9,14 +9,9 @@
 
     <bean id = "myPet"
           class = "spring_introduction.Dog"
-<<<<<<< HEAD
           init-method="init"
           destroy-method="destroy"
           scope="prototype">
-=======
-          scope="prototype">
-
->>>>>>> origin/main
     </bean>
 
 
